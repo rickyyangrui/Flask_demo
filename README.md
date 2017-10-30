@@ -17,3 +17,9 @@ test：就是你创建的database的名称，可以自行修改
 ```
 
 由于本项目没有去做注册功能，只是一个简单的flask-web练手项目，所以，我们可以自己手动在你创建好的数据库中添加username, password. 然后去登录界面进行登录
+
+## 界面如下：
+***Login***
+![Login](https://github.com/rickyyangrui/Flask_demo/blob/master/screenshot/Login.png)
+***主界面***
+![主界面](https://github.com/rickyyangrui/Flask_demo/blob/master/screenshot/Todo_List.png)
